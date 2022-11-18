@@ -1,0 +1,52 @@
+.jumbotron{
+    padding-top: 200px;
+}
+.about-section{
+    padding-top: 100px;
+}
+.Project-Section{
+    padding-top: 100px;
+}
+.tools-skills-section{
+    padding-top: 100px;
+}
+.contact-section{
+    padding-top: 100px;
+}
+.text-white{
+    text-align: center;
+    font-style: italic;
+}
+.tombol{
+    background-color: rgb(120,104,230);
+    color: white;
+    border: solid rgb(120,104,230);
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+}
+.labels{
+    color: rgba(128, 128, 128, 0.555);
+}
+.label{
+    color: rgba(128, 128, 128, 0.555);
+    font-size: x-small;
+    float: left;
+}
+#menu-utama{
+    padding-bottom: 20px;
+    list-style: none;
+}
+#menu-utama li{
+    float: right;
+    padding: 8px 20px;
+}
+#menu-utama li a{
+    color: rgb(13, 17, 22);
+    text-decoration: none;
+}
+.box{
+    background-color: rgba(228, 230, 225, 0.295);
+    border-radius: 2px;
+    box-shadow: 0px 24px 34px rgba(113, 113, 114, 0.25);
+}
